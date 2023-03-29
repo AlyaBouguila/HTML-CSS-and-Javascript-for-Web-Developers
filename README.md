@@ -1,2 +1,2 @@
 # HTML-CSS-and-Javascript-for-Web-Developers
-guided coursera certification assignment 
+guided coursera certification assignments
